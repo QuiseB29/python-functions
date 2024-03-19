@@ -3,10 +3,10 @@ def calculate_average_grade(grades):
         print("Error: the list of grades is empty")
     else:
         print(sum(grades)/len(grades))
-        
+calculate_average_grade
 grades = [76,34,87,98,23]
 average = calculate_average_grade(grades)
-print(average)
+print()
 #find the average grade 
 
 highest_grade = max(grades)
