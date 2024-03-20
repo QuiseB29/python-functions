@@ -18,6 +18,6 @@ def quiz():
             print("Sorry, the correct answer is", answer)
 
     print("Your final score is:", score)
-    print("Thanks for taking this Critical test")
+    print("Thanks for taking this Critical test.")
 
 quiz()
